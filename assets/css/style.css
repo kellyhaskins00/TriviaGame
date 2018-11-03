@@ -1,0 +1,38 @@
+body {
+    font-family: 'Arvo', serif;
+    background-repeat: repeat-x;
+	margin: 0px;
+	padding: 0px;
+}
+
+.responsive {
+    max-width: 100%;
+    height: auto;
+}
+
+.background {
+	padding: 5px 0px 5px 0px;
+}
+
+.page-text {
+	font-size: 25px;
+	margin-bottom: 10px;
+}
+
+.answerBtn {
+	margin-bottom: 10px;
+	width: 80%;
+	font-size: 20px;
+	background: none;
+	border: none;
+}
+
+.character {
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+.content-div {
+    font-family: 'Arvo', serif;
+    font-size: 20pt;
+}
